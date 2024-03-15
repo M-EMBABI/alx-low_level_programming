@@ -1,1 +1,1 @@
-this is my directory for bit manupulation
+ bit manupulation
